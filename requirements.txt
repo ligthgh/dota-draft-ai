@@ -1,0 +1,10 @@
+requests>=2.32
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+joblib>=1.4
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.8
+streamlit>=1.37
+torch>=2.3
