@@ -367,6 +367,6 @@ Dota and Dota 2 are trademarks of Valve Corporation.
 - automated evaluation dashboard;
 - pretrained model releases.
 
-## License
+### License
 
 MIT. See `LICENSE`.
