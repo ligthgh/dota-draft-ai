@@ -15,7 +15,7 @@
 python -m src.collect --pages 100 --sleep 1
 ```
 
-Проверь созданный файл:
+Проверь созданный вами файл:
 
 ```text
 data/current_patch.json
