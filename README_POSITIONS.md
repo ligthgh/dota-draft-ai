@@ -62,7 +62,7 @@ python -m streamlit run src/recommend_app.py
 python -m src.collect_positions --matches 500 --min-games 5 --min-share 0.10
 ```
 
-## Важно
+### Важно
 
 Это автоматическое определение метовых позиций, но всё ещё эвристика.
 Следующий этап — записать позиции непосредственно в train dataset и обучать
