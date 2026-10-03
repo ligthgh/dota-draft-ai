@@ -1,4 +1,4 @@
-# Dota Draft AI v4 — без Radiant/Dire + только текущий патч
+## Dota Draft AI v4 — без Radiant/Dire + только текущий патч
 
 ## Что изменилось
 
