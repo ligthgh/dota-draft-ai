@@ -7,7 +7,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 
 from .predictor import DraftPredictor
-
+#
 
 app = FastAPI(
     title="Dota Draft AI",
