@@ -20,7 +20,7 @@ python -m src.collect_positions --matches 500 --sleep 2
 python -m src.train_nn
 ```
 
-## Запуск интерфейса
+### Запуск интерфейса
 
 ```bash
 python -m streamlit run src/recommend_app.py
