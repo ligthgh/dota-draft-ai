@@ -34,7 +34,7 @@ data/hero_position_stats.json
 
 Подробные матчи кэшируются в `data/match_details/`, поэтому повторный запуск не скачивает их заново.
 
-### 3. Запустить Draft AI
+## 3. Запустить Draft AI
 
 ```bash
 python -m streamlit run src/recommend_app.py
