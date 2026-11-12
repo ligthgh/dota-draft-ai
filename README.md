@@ -168,7 +168,7 @@ Output:
 data/matches.csv
 ```
 
-### 2. Collect detailed match data
+## 2. Collect detailed match data
 
 Quick test:
 
