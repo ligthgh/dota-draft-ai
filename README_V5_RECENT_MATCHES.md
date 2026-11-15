@@ -65,7 +65,7 @@ python -m src.train_nn
 python -m streamlit run src/recommend_app.py
 ```
 
-## Если OpenDota отвечает 429
+### Если OpenDota отвечает 429
 
 Сборщик `publicMatches` теперь автоматически ждёт и повторяет запрос.
 
