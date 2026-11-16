@@ -60,7 +60,7 @@ lane_role, roaming и farm priority.
 Если OpenDota не вернул draft sequence для конкретного матча,
 pick_order = 0, что означает unknown.
 
-## MMR bracket
+### MMR bracket
 
 ```text
 0 unknown
