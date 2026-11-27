@@ -34,7 +34,7 @@ python -m src.collect_detailed --matches 10000 --sleep 2
 
 Повторные запросы к уже скачанным матчам берутся из `data/match_details`.
 
-### 3. Обучить новую нейросеть
+## 3. Обучить новую нейросеть
 
 ```bash
 python -m src.train_nn_v7
